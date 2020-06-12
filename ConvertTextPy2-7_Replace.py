@@ -7,7 +7,7 @@ import os
 # from files they enter.
 
 # TODO: Expand to be able to do using multiple cores where each function does a convertText
-# using a different core. Could do for funsies.
+# using parallel programming. Could do for funsies.
 
 # Figure out what you want to do for square and curly bracketes. Maybe have an if statement
 # Similar to how you've handled smart quotes.
